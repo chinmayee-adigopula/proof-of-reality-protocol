@@ -23,7 +23,7 @@ Trust reality itself.
 We verify events using multiple independent sources and trigger payouts only when consensus is reached.
 
 ## How It Works
-# 1. Event Detection
+### 1. Event Detection
 
 Detect events like:
 
@@ -33,7 +33,7 @@ Flood
 
 Storm
 
-# 2. Proof Collection Layer
+### 2. Proof Collection Layer
 
 Collects data from:
 
@@ -45,7 +45,7 @@ Crowd signals
 
 Telecom network patterns
 
-# 3. Consensus Engine
+### 3. Consensus Engine
 
 Each source contributes to a score:
 
@@ -57,7 +57,7 @@ User Claims	Low
 
 If Reality Score is greater than the threshold, the event is verified.
 
-# 4. Automatic Payout
+### 4. Automatic Payout
 
 Verified event triggers instant payout
 
@@ -106,7 +106,7 @@ Consensus Engine
 Payout Engine
 
 ## Adversarial Defense & Anti-Spoofing Strategy
-# 1. Differentiation
+### 1. Differentiation
 
 The system differentiates between genuine users and spoofers by:
 
@@ -118,7 +118,7 @@ Identifying abnormal patterns such as users being active in extreme conditions w
 
 A genuine user will show consistent behavior across multiple independent signals, while spoofers will fail to match real-world conditions.
 
-# 2. Data Used Beyond GPS
+### 2. Data Used Beyond GPS
 
 The system analyzes multiple data points including:
 
@@ -136,7 +136,7 @@ IoT sensor data (rainfall, traffic conditions)
 
 These combined signals help detect coordinated fraud attempts.
 
-# 3. UX Balance
+### 3. UX Balance
 
 To avoid penalizing genuine users:
 
